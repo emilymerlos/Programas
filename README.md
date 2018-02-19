@@ -17,7 +17,4 @@ _Paciente_
 
 > esperar turno
 
-(https://www.google.com.gt/)
-
-- hola
 
